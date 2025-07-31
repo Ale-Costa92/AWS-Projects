@@ -1,13 +1,13 @@
-# README: Scheduling EC2 Instances for Off-Hours
+# Scheduling EC2 Instances for Off-Hours
 
 Here a simple project on how to schedule EC2 Instances for Off-Hours. 
 
-## :rocket: Introduction
+## Introduction
 
 Optimizing resources and reducing operational costs remain paramount goals for organizations of all sizes. One particularly effective strategy to achieve this is the automation of EC2 instance start and stop schedules. Imagine a scenario where your Amazon Web Services (AWS) EC2 instances automatically power down during off-hours, weekends, or holidays, only to spring back to life exactly when you need them. This level of precision and efficiency isn’t a futuristic dream but a practical reality that can significantly impact your bottom line.
 
 
-## :scroll: Step-by-Step Guide
+## Step-by-Step Guide
 
 Follow these steps to schedule your EC2-innstances for off hours:
 
@@ -33,6 +33,6 @@ Follow these steps to schedule your EC2-innstances for off hours:
     - Define the schedule based on your requirements, specifying when to start and stop instances.
     - Using IaC (terraform) to deploy the infrastructure
 
-## :tada: Conclusion
+## Conclusion
 
 Automating the start and stop of EC2 instances through Lambda functions and scheduling is an effective cost-saving strategy.
