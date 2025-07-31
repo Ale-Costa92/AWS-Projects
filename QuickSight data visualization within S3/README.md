@@ -5,14 +5,14 @@ In today's data-driven world, the ability to transform raw information into acti
 
 ## Prerequisites
 
-Before diving into the world of data visualization with AWS QuickSight and Amazon S3, make sure you meet the following prerequisites:
+Before diving into the data visualization with AWS QuickSight and Amazon S3, make sure you meet the following prerequisites:
 
 1. **AWS Account:** You should have an AWS account or sign up for a Free-Tier Account if you don't have one already.
 2. **Dataset Files:** Download the provided dataset files: `listeners.csv` and `listeners.json`.
 
 ## Key Steps
 
-Let's embark on the journey of unlocking data insights with AWS QuickSight and Amazon S3. Follow these key steps to get started:
+Follow these key steps to get started:
 
 1. **Data Source:** Begin by obtaining your dataset. For instance, you can use Spotify data on artists and listeners, which is readily available on platforms like [Kaggle](https://www.kaggle.com/datasets).
 
