@@ -1,6 +1,6 @@
 # Data Insights with AWS QuickSight and Amazon S3
 
-In today's data-driven world, the ability to transform raw information into actionable insights is fundamental. Data visualization plays a central role in this transformation. In this project, we utlize the potent combination of AWS QuickSight and Amazon S3, showcasing their ability to turn data into compelling visual representations. 
+In today's data-driven world, the ability to transform raw information into actionable insights is fundamental. Data visualization plays a central role in this transformation. In this project, we utlize the potent combination of AWS QuickSight and Amazon S3, showcasing their ability to turn data into valuable visual representations. 
 
 
 ## Prerequisites
