@@ -22,8 +22,8 @@ Follow these key steps to get started:
 
 4. **Visualize Your Data on AWS QuickSight:** Create a new dataset within AWS QuickSight, connect it to your S3 data source, and start visualizing your data. Explore various visualization options and apply filters to gain valuable insights.
 
-5. **Additional Practice:** AWS QuickSight offers advanced features for data visualization and analysis. Dive deeper into data source connectivity, data preparation, interactive dashboards, custom calculations, and usage monitoring to elevate your data analysis game.
+5. **Additional Practice:** AWS QuickSight offers advanced features for data visualization and analysis. Dive deeper into data source connectivity, data preparation, interactive dashboards, custom calculations, and usage monitoring a more in-depth data analysis.
 
 ## Conclusion
 
-AWS QuickSight seamlessly integrates with Amazon S3, streamlining data analysis and visualization in the cloud. As you explore more AWS tools and services, you'll discover endless possibilities to enhance your data-related projects. This collaborative journey exemplifies the innovative and learning spirit of the AWS community. Together, we can achieve remarkable feats in the realm of cloud computing.
+AWS QuickSight seamlessly integrates with Amazon S3, streamlining data analysis and visualization in the cloud.
