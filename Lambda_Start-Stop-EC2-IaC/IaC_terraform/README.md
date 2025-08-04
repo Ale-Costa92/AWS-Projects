@@ -16,7 +16,7 @@ Before you begin, make sure you have the following prerequisites installed:
 
    ```shell
    git clone https://github.com/Ale-Costa92/AWS-Projects.git
-   cd AWS-Projects/IaC_terraform
+   cd AWS-Projects/Lambda_Start-Stop-EC2-IaC/IaC_terraform
    ```
 
 2. Initialize Terraform by running the following command:
